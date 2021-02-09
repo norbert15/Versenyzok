@@ -52,7 +52,7 @@ namespace Versenyzok
                         min_nemzetiseeg = pilotak[i].Nemzetiseg;
                     }
                 }
-            }
+            } 
 
             Console.WriteLine("6.feladat: " + min_nemzetiseeg);
 
